@@ -83,10 +83,10 @@ eka_ai = ["py.typed"]
 
 # ── pytest ────────────────────────────────────────────────────────────────────
 
-[tool.pytest.ini_options]
-testpaths = ["tests"]
-addopts = "-v --tb=short"
-python_files = ["test_*.py"]
+# [tool.pytest.ini_options]
+# testpaths = ["tests"]
+# addopts = "-v --tb=short"
+# python_files = ["test_*.py"]
 
 # ── Coverage ──────────────────────────────────────────────────────────────────
 
