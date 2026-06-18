@@ -369,7 +369,7 @@ If you use EKA-1 in your research, please cite:
   title  = {{EKA-1}: A 109M Parameter Historical Language Model},
   author = {chvkrsubhash},
   year   = {2026},
-  url    = {https://github.com/eka-ai/eka-ai},
+  url    = {},
   note   = {Trained from scratch on Project Gutenberg}
 }
 ```
